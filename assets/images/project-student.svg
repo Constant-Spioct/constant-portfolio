@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Student performance dashboard illustration</title><desc id="desc">Stylised dashboard with score cards, a bar chart and a small line chart.</desc>
+  <rect width="900" height="600" fill="#e9f0ec"/><rect x="76" y="58" width="748" height="484" rx="23" fill="#fffdf8"/>
+  <rect x="76" y="58" width="748" height="68" rx="23" fill="#18384a"/><path d="M76 103h748v23H76z" fill="#18384a"/>
+  <circle cx="115" cy="92" r="9" fill="#67b6a6"/><path d="M146 87h103" stroke="#e9f0ec" stroke-width="9" stroke-linecap="round"/><path d="M710 88h61" stroke="#75919a" stroke-width="8" stroke-linecap="round"/>
+  <text x="113" y="165" fill="#18384a" font-family="Arial,sans-serif" font-size="18" font-weight="700">PERFORMANCE OVERVIEW</text>
+  <rect x="112" y="187" width="197" height="73" rx="11" fill="#f3f4ef"/><rect x="329" y="187" width="197" height="73" rx="11" fill="#f3f4ef"/><rect x="546" y="187" width="240" height="73" rx="11" fill="#f3f4ef"/>
+  <text x="132" y="214" fill="#71817e" font-family="Arial,sans-serif" font-size="12">AVERAGE SCORE</text><text x="132" y="244" fill="#18384a" font-family="Arial,sans-serif" font-size="25" font-weight="700">78.4</text>
+  <text x="349" y="214" fill="#71817e" font-family="Arial,sans-serif" font-size="12">RECORDS REVIEWED</text><text x="349" y="244" fill="#18384a" font-family="Arial,sans-serif" font-size="25" font-weight="700">240</text>
+  <text x="566" y="214" fill="#71817e" font-family="Arial,sans-serif" font-size="12">COMPLETION RATE</text><text x="566" y="244" fill="#18384a" font-family="Arial,sans-serif" font-size="25" font-weight="700">86%</text>
+  <rect x="112" y="286" width="421" height="222" rx="13" fill="#faf9f4"/><text x="133" y="316" fill="#18384a" font-family="Arial,sans-serif" font-size="14" font-weight="700">ASSESSMENT SCORES</text>
+  <path d="M150 467h356M150 419h356M150 371h356" stroke="#e2e7e1" stroke-width="2"/><path d="M184 467V407h38v60m36 0V378h38v89m36 0V346h38v121m36 0V390h38v77m36 0V362h38v105" fill="#83b9aa"/>
+  <rect x="554" y="286" width="232" height="222" rx="13" fill="#faf9f4"/><text x="576" y="316" fill="#18384a" font-family="Arial,sans-serif" font-size="14" font-weight="700">BY STUDY WEEK</text>
+  <path d="M582 456l44-35 42 13 44-62 47 17" fill="none" stroke="#277f78" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="626" cy="421" r="5" fill="#277f78"/><circle cx="668" cy="434" r="5" fill="#277f78"/><circle cx="712" cy="372" r="5" fill="#277f78"/><circle cx="759" cy="389" r="5" fill="#277f78"/>
+</svg>

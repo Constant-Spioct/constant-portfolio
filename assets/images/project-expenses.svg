@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Personal expense tracker illustration</title><desc id="desc">Stylised expense tracker with a monthly amount, category breakdown and recent transactions.</desc>
+  <rect width="900" height="600" fill="#e9e8ef"/><rect x="76" y="58" width="748" height="484" rx="23" fill="#fffdf8"/>
+  <rect x="76" y="58" width="748" height="68" rx="23" fill="#18384a"/><path d="M76 103h748v23H76z" fill="#18384a"/><circle cx="115" cy="92" r="9" fill="#b9a7ce"/>
+  <path d="M147 88h143" stroke="#eff0e9" stroke-width="9" stroke-linecap="round"/><path d="M710 88h61" stroke="#75919a" stroke-width="8" stroke-linecap="round"/>
+  <text x="114" y="166" fill="#18384a" font-family="Arial,sans-serif" font-size="18" font-weight="700">MONTHLY OVERVIEW</text>
+  <rect x="112" y="188" width="376" height="133" rx="14" fill="#f4f2f7"/><text x="137" y="222" fill="#7d7789" font-family="Arial,sans-serif" font-size="13">SAMPLE TOTAL SPEND</text><text x="137" y="271" fill="#18384a" font-family="Arial,sans-serif" font-size="37" font-weight="700">$1,240</text><path d="M351 279l22-22 20 9 23-38 25 13" fill="none" stroke="#7b7193" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="512" y="188" width="276" height="290" rx="14" fill="#faf9f4"/><text x="537" y="222" fill="#18384a" font-family="Arial,sans-serif" font-size="14" font-weight="700">BY CATEGORY</text>
+  <circle cx="650" cy="330" r="77" fill="none" stroke="#e4dfea" stroke-width="24"/><path d="M650 253a77 77 0 0 1 74 99" fill="none" stroke="#8c7ea2" stroke-width="24"/><path d="M724 352a77 77 0 0 1-112 42" fill="none" stroke="#bca9ce" stroke-width="24"/><path d="M612 394a77 77 0 0 1-36-95" fill="none" stroke="#6b9b91" stroke-width="24"/>
+  <rect x="112" y="345" width="376" height="164" rx="14" fill="#faf9f4"/><text x="137" y="379" fill="#18384a" font-family="Arial,sans-serif" font-size="14" font-weight="700">RECENT SAMPLE ENTRIES</text>
+  <circle cx="147" cy="412" r="7" fill="#6b9b91"/><path d="M168 412h160" stroke="#b2b7ae" stroke-width="7" stroke-linecap="round"/><path d="M425 412h34" stroke="#18384a" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="147" cy="449" r="7" fill="#bca9ce"/><path d="M168 449h124" stroke="#b2b7ae" stroke-width="7" stroke-linecap="round"/><path d="M425 449h34" stroke="#18384a" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="147" cy="486" r="7" fill="#d9b786"/><path d="M168 486h142" stroke="#b2b7ae" stroke-width="7" stroke-linecap="round"/><path d="M425 486h34" stroke="#18384a" stroke-width="8" stroke-linecap="round"/>
+</svg>

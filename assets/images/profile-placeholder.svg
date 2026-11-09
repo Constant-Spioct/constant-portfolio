@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-labelledby="title description">
+  <title id="title">Illustrated profile placeholder</title>
+  <desc id="description">Abstract portrait silhouette against a warm cream background with teal accents.</desc>
+  <rect width="640" height="760" fill="#e9e5d9"/>
+  <circle cx="488" cy="155" r="115" fill="#c6ddd6"/>
+  <path d="M75 760c15-160 98-250 245-250s230 90 245 250" fill="#18384a"/>
+  <path d="M235 495h170v84c-17 40-48 61-85 61s-68-21-85-61z" fill="#bd8267"/>
+  <ellipse cx="320" cy="303" rx="150" ry="187" fill="#d99c7e"/>
+  <path d="M170 300c-5-143 48-229 158-229 114 0 164 83 145 236-15-61-40-94-91-109-48-14-114-2-212 30z" fill="#293642"/>
+  <path d="M170 252c22-110 79-172 166-172 75 0 123 40 145 112-49-34-96-48-144-39-58 11-111 48-167 99z" fill="#293642"/>
+  <path d="M264 320h22m70 0h22" stroke="#293642" stroke-width="8" stroke-linecap="round"/>
+  <path d="M290 403c18 14 42 14 60 0" fill="none" stroke="#935a4e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M245 550l75 86 75-86" fill="#f3f0e8"/>
+  <path d="M128 760c18-108 80-169 192-169s174 61 192 169" fill="#0f303b"/>
+  <circle cx="113" cy="134" r="8" fill="#277f78"/><circle cx="137" cy="134" r="8" fill="#277f78"/><circle cx="161" cy="134" r="8" fill="#277f78"/>
+</svg>
