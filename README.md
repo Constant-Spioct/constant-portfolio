@@ -91,16 +91,28 @@ No automated test suite is configured. The site can be checked in a browser by n
 - Planner tasks are saved only in the current browser's local storage. They are not shared across browsers or devices and may be lost if browser data is cleared.
 - Google Fonts are loaded from an external service and may fall back to system fonts when offline.
 ```
-## Technical Challenges &amp; Solutions
+## Technical Challenges & Solutions
 
-During the development of this portfolio and academic management platform, two major technical challenges were encountered and resolved:
+During development, I encountered a few technical challenges while integrating website features and preparing the portfolio for deployment.
 
-### 1. Audio Integration &amp; GitHub Pages Media Delivery
-* **Challenge**: Embedded audio files returned HTTP 404 errors after deployment to GitHub Pages, and mobile browsers blocked automatic playback due to strict autoplay policies.
-* **Solution**:
-  1. **Relative File Paths**: Replaced absolute paths (`/assets/audio/...`) with relative paths (`assets/audio/...` or `./assets/audio/...`) to ensure resources resolved under the repository sub-directory.
-  2. **Multi-Format HTML5 Fallback**: Configured `
+### 1. Audio Integration and Browser Compatibility
 
-## Author
+- **Challenge:** The audio introduction did not play when the website was opened directly from the local file system using the `file://` protocol.
+- **Solution:**
+  1. Used a relative file path to reference the audio file in the project directory.
+  2. Tested the website through a local HTTP server to confirm that the browser could load and play the MP3 file.
+  3. Retained the HTML5 audio controls so visitors can play, pause, and control the recording themselves.
+  4. Tested the published audio player on GitHub Pages to confirm that the recording worked after deployment.
+
+### 2. Responsive Dashboard Image Integration
+
+- **Challenge:** Adding project dashboard screenshots without affecting the layout or making the project cards difficult to view on smaller screens.
+- **Solution:**
+  1. Integrated screenshots into their corresponding project cards.
+  2. Applied responsive image styling to preserve their aspect ratios.
+  3. Added descriptive alternative text and captions.
+  4. Checked the Projects page on desktop and mobile screen sizes.
+
+These improvements helped make the portfolio more accessible, consistent, and reliable across different viewing environments.
 
 **Onwuzurike Izuchukwu Constant** · Data Science student at MIVA Open University · [GitHub profile](https://github.com/Constant-Spioct)
