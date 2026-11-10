@@ -197,6 +197,9 @@ h1 { margin-bottom: 21px; font-size: clamp(42px, 5.7vw, 70px); font-weight: 700;
 .actual-work-heading .eyebrow, .sample-work-heading .eyebrow { margin-bottom: 7px; }
 .work-status { flex: 0 0 auto; margin-top: 7px; padding: 7px 10px; color: #64746f; background: #edf2eb; border: 1px solid #e0e8df; border-radius: 30px; font-size: 8px; font-weight: 700; letter-spacing: .1em; }
 .actual-project-card { overflow: hidden; }
+.actual-project-image { margin: 0; padding: 10px 10px 0; background: #f0f3ed; }
+.actual-project-image img { display: block; width: 100%; height: auto; }
+.actual-project-image figcaption { padding: 10px 4px 11px; color: #5e6d6c; font-size: 10px; line-height: 1.6; }
 .project-placeholder-art { display: grid; min-height: 180px; aspect-ratio: 1.5; align-content: center; justify-items: center; gap: 7px; color: #69847e; background: #e9f0ec; }
 .project-placeholder-art > span { display: grid; width: 42px; height: 42px; place-items: center; color: var(--teal); background: rgb(255 254 250 / 75%); border: 1px dashed #9bb9ad; border-radius: 50%; font-family: var(--font-heading); font-size: 12px; font-weight: 700; }
 .project-placeholder-art small { font-size: 9px; }
