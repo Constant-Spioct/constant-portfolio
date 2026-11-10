@@ -90,6 +90,16 @@ No automated test suite is configured. The site can be checked in a browser by n
 - The contact form validates the name, email, phone number, and message, but **does not send or store messages**. A backend or form service would be needed to receive submissions.
 - Planner tasks are saved only in the current browser's local storage. They are not shared across browsers or devices and may be lost if browser data is cleared.
 - Google Fonts are loaded from an external service and may fall back to system fonts when offline.
+```
+## Technical Challenges &amp; Solutions
+
+During the development of this portfolio and academic management platform, two major technical challenges were encountered and resolved:
+
+### 1. Audio Integration &amp; GitHub Pages Media Delivery
+* **Challenge**: Embedded audio files returned HTTP 404 errors after deployment to GitHub Pages, and mobile browsers blocked automatic playback due to strict autoplay policies.
+* **Solution**:
+  1. **Relative File Paths**: Replaced absolute paths (`/assets/audio/...`) with relative paths (`assets/audio/...` or `./assets/audio/...`) to ensure resources resolved under the repository sub-directory.
+  2. **Multi-Format HTML5 Fallback**: Configured `
 
 ## Author
 
